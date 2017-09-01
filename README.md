@@ -5,8 +5,8 @@ Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealice
 
 ## Description
 
-We collected 1,562,452 check-ins from 5112 Swarm users with their consent.
-We randomly selected 3000 of them with 926524 check-ins, which are generated in 3 cities, i.e., Hong Kong(HK), New York City(NYC), San Francisco(SFO), at total for publicity.
+We collected 1,562,452 check-ins from 5112 Swarm users with their consent. 
+We randomly selected 3000 of them with 926524 check-ins at total, which are generated in 3 cities, i.e., Hong Kong(HK), New York City(NYC), San Francisco(SFO), for publicity. 
 Respecting for users' privacy, we obscured the `user_id` field in the data.
 
 ## Files
