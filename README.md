@@ -65,10 +65,12 @@ Explanations for fields in JSON:
 ### BibTex Entry
 ```
 @inproceedings{lin2017understanding,
-  title={Understanding user activity patterns of the swarm app: a data-driven study},
+  title={Understanding user activity patterns of the Swarm app: a data-driven study},
   author={Lin, Shihan and Xie, Rong and Xie, Qinge and Zhao, Hao and Chen, Yang},
-  booktitle={Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct},
+  booktitle={Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers},
+  pages={125--128},
   year={2017},
   organization={ACM}
 }
 ```
+
